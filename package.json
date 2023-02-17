@@ -2,7 +2,7 @@
   "name": "laravel-api-helper",
   "author": "Jonathan Teran <jonathan.nerat@gmail.com>",
   "description": "Companion library for the laravel-api-helper (composer) package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "build/index",
   "types": "build/index",
