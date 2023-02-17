@@ -1,0 +1,14 @@
+# build
+build/
+
+# js packages
+node_modules/
+
+# Yarn Files
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
